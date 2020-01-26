@@ -1,0 +1,7 @@
+In this section we will see basic operations such as:
+1) Reading and writing images from python. 
+2) Visualizing the images in python using matplotlib. 
+3) Converting image to different color formats.
+4) Padding the image. 
+5) Applying filters using convolution. 
+ 
